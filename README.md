@@ -3,7 +3,7 @@ Simpe parser for youtube music uploaded song names.
 
 If you have big library uploaded on your youtube music account, you may struggle to get a list of tracks form it
 
-This scrips is gets your list uploaded of tracks, then formatting it in "Artist Name" - "Song Name" format and saves it in "tracklist.txt" file.
+This scrips is gets your list of uploaded tracks, then formatting it in "Artist Name" - "Song Name" format and saves it in "tracklist.txt" file.
 The txt may be useful for services like "TuneMyMusic" and "Soundiiz"
 
 Before you start:
