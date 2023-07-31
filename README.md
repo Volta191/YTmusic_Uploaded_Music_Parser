@@ -1,5 +1,5 @@
 # YTmusic_Uploaded_Music_Parser
-Simpe parser for youtube music uploaded songs
+Simpe parser for youtube music uploaded song names.
 
 If you have big library uploaded on your youtube music account, you may struggle to get a list of tracks form it
 
@@ -18,8 +18,8 @@ Before you start:
 
 3. When authintication is done, simply press enter in terminal. It will generate .json file in same folder with the script
 
-You may control limit of the output buy changing "limit" parameter (3000 by default)
+*You may control limit of the output buy changing "limit" parameter (3000 by default)
 
-I hope it will help. 
+I hope it will help you. 
 
 V.
