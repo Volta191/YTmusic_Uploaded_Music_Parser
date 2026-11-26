@@ -1,5 +1,5 @@
 # YTmusic_Uploaded_Music_Parser
-Simpe parser for youtube music uploaded song names.
+Simple parser for youtube music uploaded song names.
 
 If you have big library uploaded on your youtube music account, you may struggle to get a list of tracks form it
 
